@@ -60,6 +60,10 @@ mvn spring-boot:run
 # Licencia
 Este proyecto está licenciado bajo la [Licencia Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0.html)
 
+## Authors
+
+- [@RubenOrtiz](https://github.com/xXStormIceXx)
+- [@JorgyMozo](https://github.com/jorgy2910JD)
 <p align="center">
   <img src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" width="80" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50">
